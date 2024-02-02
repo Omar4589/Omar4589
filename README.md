@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi there, I'm Omar 👋
 <br><br> 👨‍💻 About Me
 <br><br>I'm a junior developer with a certification from UTSA's School of Data Science for full-stack web development. I'm also an accomplished freelance photographer with a keen eye for detail, adept in Adobe Photoshop and Lightroom.
