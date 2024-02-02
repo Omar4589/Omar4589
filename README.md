@@ -14,15 +14,9 @@
 The app connects to a shared server/database/API setup, utilizing `Express` for the server and `MongoDB` for the database, all orchestrated through a `GraphQL API`. This ensures a seamless flow of information between the React Native app used by residents and a React web app, which acts as an admin portal for city services to view and manage these requests.
 
 This project is not just a technical endeavor but a solution aimed at improving local infrastructure and community service responsiveness. I'm applying what I've learned about web development to make this app a reality. If anyone has experience with similar projects, or tips and tricks for a budding React Native developer, I’d greatly appreciate your insights!
-<br><br> 👯 I’m looking to collaborate on
-<br><br>I'm all about diving into cool, fun, and innovative projects that challenge me and push the boundaries of what's possible. If you're working on something that fits this bill and could use a developer's insight or help, don't hesitate to reach out. I'm here to collaborate, contribute, and learn together. So, if you need a hand or just want to bounce ideas off someone passionate about technology and creativity, feel free to message me!
-<br><br> 🌱 I’m currently learning
-<br><br>I'm currently diving into the world of `React Native`, with a special focus on `iOS development`. As I explore this powerful framework, I'm also getting hands-on with its ecosystem, particularly libraries like `React Navigation`. My journey doesn't stop at just understanding the basics; I'm keen on applying what I already know—React, GraphQL, Apollo Server/Client, MongoDB, and setting up an Express server—to build seamless, cross-platform mobile applications. This learning path is not only about expanding my technical skills but also about bridging the gap between web and mobile development to create integrated user experiences.
-
 <br><br> 🚀 Projects<br><br>(Here, you can list some of your standout projects, providing a short description and link to each. This is a great way to showcase your development and photography skills.)<br><br>- **Project Name:** Description. [View Project](#)
 <br><br> 📫 How to Reach Me<br><br>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omarzumaya), or shoot me an email at `omarzumayajr@gmail.com`.
-
-<br><br> ⚡ Fun Facts
+<br> ⚡ Fun Facts
 <br>
 <br>- Golfing and watching football are my go-to leisure activities. Go Baltimore Ravens!
 <br>- I love cars. Especially fast ones!
