@@ -1,5 +1,5 @@
 ## Hi there, I'm Omar 👋
-### 👨‍💻 I'm a junior developer with a certification from UTSA's School of Data Science on full-stack web development.
+### 👨‍💻 I'm a junior developer with a certification from UTSA's School of Data Science on full-stack web development. I seek opportunities to engage in creative and exciting projects that challenge and expand my skillset to its fullest potential.
 ### 🌐 Technical Skills
 - **Web Technologies:**
 HTML,
