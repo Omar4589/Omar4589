@@ -1,11 +1,11 @@
 ## Hi there, I'm Omar 👋
 ### 👨‍💻 I'm a junior developer with a certification from UTSA's School of Data Science on full-stack web development.
 ### 🌐 Technical Skills
-<br>-**Web Technologies:**
+- **Web Technologies:**
 HTML,
 CSS,
 JavaScript
-<br>-**Libraries & Frameworks:**
+- **Libraries & Frameworks:**
 React,
 ExpressJs,
 NodeJs,
@@ -19,15 +19,15 @@ JWT,
 Bcrypt,
 DayJS,
 FullCalendar
-<br>-**Databases:** 
+- **Databases:** 
 MySQL (Sequelize),
 MongoDB (Mongoose)
-<br>-**Concepts:**
+- **Concepts:**
 3rd Party APIs,
 RESTful APIs,
 OOP,
 MVC
-<br>-**Tools & Platforms:**
+- **Tools & Platforms:**
 Git,
 GitHub,
 Heroku,
