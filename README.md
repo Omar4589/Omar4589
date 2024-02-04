@@ -26,7 +26,8 @@ MongoDB (Mongoose)
 3rd Party APIs,
 RESTful APIs,
 OOP,
-MVC
+MVC,
+Agile Development
 - **Tools & Platforms:**
 Git,
 GitHub,
