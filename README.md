@@ -34,12 +34,6 @@ GitHub,
 Heroku,
 NPM
 
-🔭 I'm currently embarked on an exciting journey developing my first `React Native` app, a project that not only challenges me but also serves a meaningful purpose for my community. This app aims to bridge the gap between the residents of my city and the local city services department by providing a digital platform for submitting service requests. Given that my city lacks a digital means for such submissions—relying solely on phone calls—this app represents a significant step forward.
-
-The app connects to a shared server/database/API setup, utilizing `Express` for the server and `MongoDB` for the database, all orchestrated through a `GraphQL API`. This ensures a seamless flow of information between the React Native app used by residents and a React web app, which acts as an admin portal for city services to view and manage these requests.
-
-This project is not just a technical endeavor but a solution aimed at improving local infrastructure and community service responsiveness. I'm applying what I've learned about web development to make this app a reality. If anyone has experience with similar projects, or tips and tricks for a budding React Native developer, I’d greatly appreciate your insights!
-<br><br> 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omarzumaya), or shoot me an email at `omarzumayajr@gmail.com`.
 ## 🚀 Projects
 - **YardGems:** Designed as a community-driven platform to streamline the yard sale experience. The application eliminates the tedious need to drive around in search of yard sales by providing a centralized platform where users can find and list yard sales in their area. <br>[Demo](https://yardgems-15b0faee737f.herokuapp.com/) / [Github Repo](https://github.com/Omar4589/YardGems)
 <br><br>
@@ -47,6 +41,15 @@ This project is not just a technical endeavor but a solution aimed at improving 
 <br><br>
 - **MealMappr:** A digital meal planning application designed to simplify nutrition tracking. Offering a recipe search and save feature, enabling users to easily plan meals and monitor nutritional intake. <br>[Demo](https://mealmappr.herokuapp.com/) / [Github Repo](https://github.com/Omar4589/MealMappr)
 <br><br>
+
+## 🔭 My Current Focus
+I'm currently embarked on an exciting journey developing my first `React Native` app, a project that not only challenges me but also serves a meaningful purpose for my community. This app aims to bridge the gap between the residents of my city and the local city services department by providing a digital platform for submitting service requests. Given that my city lacks a digital means for such submissions—relying solely on phone calls—this app represents a significant step forward.
+
+The app connects to a shared server/database/API setup, utilizing `Express` for the server and `MongoDB` for the database, all orchestrated through a `GraphQL API`. This ensures a seamless flow of information between the React Native app used by residents and a React web app, which acts as an admin portal for city services to view and manage these requests.
+
+This project is not just a technical endeavor but a solution aimed at improving local infrastructure and community service responsiveness. I'm applying what I've learned about web development to make this app a reality. If anyone has experience with similar projects, or tips and tricks for a budding React Native developer, I’d greatly appreciate your insights!
+<br><br> 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omarzumaya), or shoot me an email at `omarzumayajr@gmail.com`.
+
 
 Thanks for stopping by my GitHub profile! I'm always excited to collaborate on projects or just chat about tech, photography, and any of my other interests.<br>
 
