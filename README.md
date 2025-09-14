@@ -39,15 +39,19 @@ NPM
 <br><br>
 - **EscapeMe:** A customizable booking system initially designed for escape room businesses. Scalable for other business types. <br>[Demo](https://escapeme-62de0a91bfcf.herokuapp.com/) / [Github Repo](https://github.com/Omar4589/EscapeMe)
 <br><br>
-- **MealMappr:** A digital meal planning application designed to simplify nutrition tracking. Offering a recipe search and save feature, enabling users to easily plan meals and monitor nutritional intake. <br>[Demo](https://mealmappr.herokuapp.com/) / [Github Repo](https://github.com/Omar4589/MealMappr)
+- **On The Field Productions Website:** A photography e-commerce platform built with the MERN stack and Tailwind CSS. Clients upload sports images into galleries, which users can browse and purchase directly. Secure payments are handled via Square. <br>[Live Site](https://www.onthefieldproductions.com) / [Github Repo](https://github.com/Omar4589/otfp)
 <br><br>
 
 ## 🔭 My Current Focus
-I'm currently embarked on an exciting journey developing my first `React Native` app, a project that not only challenges me but also serves a meaningful purpose for my community. This app aims to bridge the gap between the residents of my city and the local city services department by providing a digital platform for submitting service requests. Given that my city lacks a digital means for such submissions—relying solely on phone calls—this app represents a significant step forward.
+Right now my main focus is building out **Friend Renter**, a personal business venture that I’m scaling from the ground up. It’s a rental marketplace platform where people can list and rent all kinds of items—from cars and boats to electronics and equipment.  
 
-The app connects to a shared server/database/API setup, utilizing `Express` for the server and `MongoDB` for the database, all orchestrated through a `GraphQL API`. This ensures a seamless flow of information between the React Native app used by residents and a React web app, which acts as an admin portal for city services to view and manage these requests.
+I’m handling every layer of the stack:
+- **Server/API**: Built with `Express` + `TypeScript`, powered by `MongoDB`, with strong validation, auth, and security best practices.  
+- **Admin Portal**: React-based dashboard for managing users, listings, bookings, and payments.  
+- **Marketing Site**: Clean, SEO-optimized Next.js site to drive growth and acquisition.  
+- **Mobile App**: A `React Native` app for renters and hosts to list, browse, and book on the go.  
 
-This project is not just a technical endeavor but a solution aimed at improving local infrastructure and community service responsiveness. I'm applying what I've learned about web development to make this app a reality. If anyone has experience with similar projects, or tips and tricks for a budding React Native developer, I’d greatly appreciate your insights!
+The goal is to create a smooth, secure rental experience that can scale beyond my local market. This project lets me push my MERN expertise further while stepping into mobile, payments, and marketplace dynamics.
 <br><br> 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omarzumaya), or shoot me an email at `omarzumayajr@gmail.com`.
 
 
