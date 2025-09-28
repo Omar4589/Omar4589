@@ -34,7 +34,7 @@ The goal is to create a smooth, secure rental experience that can scale beyond m
 <br><br>
 
 ## 🧰 Tech Stack
-**Core:** JavaScript/TypeScript • Node.js • Express • React • Next.js • React Native  
+**Core:** JavaScript • Node.js • Express • React • Next.js • React Native  
 **Data:** MongoDB (Mongoose) • MySQL (Sequelize) • Redis  
 **UI:** Tailwind CSS • Material UI • Bootstrap • Handlebars (legacy)  
 **State:** Redux Toolkit • React Context  
